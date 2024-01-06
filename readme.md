@@ -1,12 +1,5 @@
-<h1 align="center">
-    <img alt="LinkApi" src="https://www.linkapi.solutions/uploads/2019/10/LinkApi-Logo-2019.png" width="200px" />
-</h1>
 
-<h3 align="center">
-  LinkApi Back-end test
-</h3>
-
-<blockquote align="center">Enterprise Application Integration for pipeline and bling applications</blockquote>
+# Enterprise Application Integration for pipeline and bling applications
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GitArika/pipeline-bling-integration-api?color=%2304D361">
